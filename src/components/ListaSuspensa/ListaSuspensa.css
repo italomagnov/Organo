@@ -1,14 +1,10 @@
-.text-field {
-    margin: 24px 0;
-}
-
-.text-field label {
+.lista-suspensa label {
     display: block;
     margin-bottom: 8px;
     font-size: 24px;
 }
 
-.text-field input {
+.lista-suspensa select {
     box-sizing: border-box;
     width: 100%;
     padding: 24px;

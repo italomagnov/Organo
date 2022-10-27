@@ -1,0 +1,13 @@
+.btn-create-card {
+    background: #6278F7;
+    border-radius: 10px;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    margin: 32px 0;
+    padding: 24px;
+    cursor: pointer;
+}
+.btn-create-card:hover {
+    color: #95FFD4;
+}
