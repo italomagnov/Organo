@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import Banner from './components/Banner/';
-import Form from './components/Form';
-import Rodape from './components/Rodape';
-import Time from './components/Time';
+import Banner from './components/banner/';
+import Form from './components/form';
+import Rodape from './components/rodape';
+import Time from './components/time';
 
 function App() {
 
