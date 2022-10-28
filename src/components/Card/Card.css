@@ -1,0 +1,39 @@
+.card-colaborador {
+    width: 280px;
+    margin-top: 16px;
+}
+
+.card-colaborador__cabecalho {
+    background-color: #f0f0f0;
+    border-radius: 10px 10px 0 10px;
+}
+
+.card-colaborador img {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.card-colaborador__rodape {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.card-colaborador__rodape h4 {
+    color: #6278F7;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 22px;
+}
+
+.card-colaborador__rodape h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}

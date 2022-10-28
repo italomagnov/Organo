@@ -2,7 +2,7 @@
 
 .time {
     text-align: center;
-    padding: 32px;
+    padding: 0 12px 64px 12px;
     font-family: 'Prata', serif;
 }
 
@@ -12,4 +12,11 @@
     font-size: 32px;
     font-weight: 400;
     border-bottom: 4px solid;
+}
+
+.time .cards {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    flex-wrap: wrap;
 }
