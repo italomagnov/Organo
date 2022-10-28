@@ -1,7 +1,7 @@
 import './Form.css'
-import CampoTexto from '../campoTexto'
-import ListaSuspensa from '../listaSuspensa'
-import BotaoCard from '../botãoCard'
+import CampoTexto from '../CampoTexto'
+import ListaSuspensa from '../ListaSuspensa'
+import BotaoCard from '../BotãoCard'
 import { useState } from 'react'
 
 const Form = (props) => {
